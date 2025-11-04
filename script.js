@@ -28,3 +28,6 @@ function processaTexto(texto){
 
    
 }
+function tiraPalavrasRuins(palavras){
+    const PALAVRAS_RUINS = new Set(["para", "nós", "como", "das", "que"]);
+}
