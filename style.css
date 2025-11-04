@@ -19,7 +19,7 @@ body {
     background: var(--cor-gradiente-preto);
     height: 100vh;
     flex-direction: column;
-    background-image: url("https://imagens.ebc.com.br/f0xBJtGd9zN4rfk4F1Yt8BZBv6I=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/06/54770136894_59403684a2_o.jpg?itok=O_0MAj6E");
+    
 }
 
 .container {
