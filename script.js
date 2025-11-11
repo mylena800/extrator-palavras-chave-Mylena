@@ -1,4 +1,4 @@
-import { PALAVRAS_RUINS } from "./palavrasRuins.js";
+import {PALAVRAS_RUINS} from "./palavrasRuins.js";
 
 const botaoMostraPalavras = document.querySelector("#botao-palavrachave");
 
@@ -45,6 +45,7 @@ function contaFrequencias(palavras){
 
 }
 function tiraPalavrasRuins(palavras){
+    
 
     const palavrasBoas =[];
 
@@ -55,3 +56,4 @@ function tiraPalavrasRuins(palavras){
     }
     return palavrasBoas;
 }
+
